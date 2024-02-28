@@ -13,7 +13,7 @@ nour:  def britishPound_to_aed(amount): def eur_to_aed(amount):
 
 khaled repo: https://github.com/KhaledAmer1/Khaled-Abusharbain2651
 zarak repo :     https://github.com/zk9059/Group-8-Activity-2
-Nour Abdelwahed : 
+Nour Abdelwahed : https://github.com/NourAbdElWahe/Group-8-Activity-2
 
 
 
